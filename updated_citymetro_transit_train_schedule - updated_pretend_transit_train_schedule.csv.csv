@@ -1,0 +1,26 @@
+TrainID,Line,Station,ArrivalTime
+A_Line_Train1,A Line,Union Station,6:00
+A_Line_Train2,A Line,Downtown Lego City,6:10
+A_Line_Train3,A Line,Airport Metro Transit Center,6:20
+A_Line_Train4,A Line,Death Star City,6:30
+E_Line_Train1,E Line,Union Station,6:00
+E_Line_Train2,E Line,Downtown Lego City,6:10
+E_Line_Train3,E Line,Emergency HQ,6:20:00 AM
+E_Line_Train4,E Line,Airport Metro Transit Center,6:30
+E_Line_Train5,E Line,Desktop Hills,6:40
+E_Line_Train6,E Line,Table Central,6:50
+B_Line_Train1,B Line,Union Station,6:00
+B_Line_Train2,B Line,Airport Metro Transit Center,6:10
+B_Line_Train3,B Line,Heartlake Transit Center,6:20
+B_Line_Train4,B Line,Couch Chair Park,6:30
+B_Line_Train5,B Line,Dine Park,6:40
+B_Line_Train6,B Line,Table Central,6:50
+B_Line_Train7,B Line,North Hollowood,7:00
+D_Line_Train1,D Line,Union Station,6:00
+D_Line_Train2,D Line,Airport Metro Transit Center,6:10
+D_Line_Train3,D Line,Heartlake Transit Center,6:20
+D_Line_Train4,D Line,William/Western,6:30:00 AM
+K_Line_Train1,K Line,Asian Town,6:00:00 AM
+K_Line_Train2,K Line,Union Station,6:15:00 AM
+K_Line_Train3,K Line,FLX T2,6:30:00 AM
+K_Line_Train4,K Line,Airport Metro Transit Center,6:40:00 AM
